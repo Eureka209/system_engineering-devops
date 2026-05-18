@@ -2,8 +2,8 @@
 #Bash script that continuously displays the phrase “To infinity and beyond” indefinitely.
 
 i=0
-while [ $i -lt 10 ]
+while true
 do
 	echo "To infinity and beyond"
-	sleep 2 &
+	sleep 2 
 done
