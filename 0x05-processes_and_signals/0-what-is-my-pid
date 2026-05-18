@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#A file for scripts of displaying my pid
+
+echo $$
